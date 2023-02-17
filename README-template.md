@@ -29,6 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Zagz](https://github.com/Zagz01)
+- Discord - [Zagz](https://github.com/Zagz01)
+- Website - [Zagz](https://zagz01.github.io/QR-CODE-COMPONENT-MAIN/)
 - Frontend Mentor - [@zagz](frontendmentor.io/profile/Zagz01)
 - Linkedin - [@youri-pinzani](https://www.linkedin.com/in/youri-pinzani-ba1779263/)
